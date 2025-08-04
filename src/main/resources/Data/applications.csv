@@ -1,0 +1,3 @@
+id,student_id,job_id,status,applied_at
+1,1,1,applied,2025-07-20 10:30:00
+2,2,2,interviewed,2025-07-22 11:45:00

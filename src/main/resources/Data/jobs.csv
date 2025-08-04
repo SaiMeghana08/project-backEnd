@@ -1,0 +1,3 @@
+id,company_id,title,description,location,salary,eligibility_criteria
+1,1,Software Engineer,Develop software,Bangalore,10 LPA,CGPA > 8
+2,2,Data Analyst,Analyze data trends,Hyderabad,8 LPA,CGPA > 7.5
